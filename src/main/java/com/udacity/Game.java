@@ -199,6 +199,7 @@ public class Game {
      * Main function
      * @param args command line arguments
      */
+	 
     public static void main(String args[]){
         Game game = new Game();
         gui = new GameUI(game);
